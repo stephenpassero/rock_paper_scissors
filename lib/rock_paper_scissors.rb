@@ -1,3 +1,5 @@
+require("pry")
+
 class RPS
   def wins(object, otherObject)
     if object == "rock"
